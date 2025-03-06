@@ -1,0 +1,8 @@
+- public/
+  - images/
+    - notion-avatar-1741184739328.svg
+    - notion-avatar-1741185108112.svg
+- index.html
+- styles.css
+- script.js
+- contact.html 
